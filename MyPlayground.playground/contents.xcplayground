@@ -5,5 +5,8 @@
         <page name='data types'/>
         <page name='collection type'/>
         <page name='function'/>
+        <page name='if and switch'/>
+        <page name='loop statement'/>
+        <page name='optional and optional binding'/>
     </pages>
 </playground>
