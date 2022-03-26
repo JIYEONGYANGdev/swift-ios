@@ -4,5 +4,6 @@
         <page name='constants and variables'/>
         <page name='data types'/>
         <page name='collection type'/>
+        <page name='function'/>
     </pages>
 </playground>
