@@ -10,5 +10,6 @@
         <page name='optional and optional binding'/>
         <page name='Struct'/>
         <page name='Class'/>
+        <page name='init statement'/>
     </pages>
 </playground>
