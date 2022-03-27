@@ -9,5 +9,6 @@
         <page name='loop statement'/>
         <page name='optional and optional binding'/>
         <page name='Struct'/>
+        <page name='Class'/>
     </pages>
 </playground>
