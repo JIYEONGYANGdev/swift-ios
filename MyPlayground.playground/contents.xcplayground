@@ -8,5 +8,6 @@
         <page name='if and switch'/>
         <page name='loop statement'/>
         <page name='optional and optional binding'/>
+        <page name='Struct'/>
     </pages>
 </playground>
