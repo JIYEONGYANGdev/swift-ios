@@ -11,5 +11,6 @@
         <page name='Struct'/>
         <page name='Class'/>
         <page name='init statement'/>
+        <page name='properties'/>
     </pages>
 </playground>
