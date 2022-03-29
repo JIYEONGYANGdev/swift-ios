@@ -13,5 +13,6 @@
         <page name='init statement'/>
         <page name='properties'/>
         <page name='class and struct'/>
+        <page name='inheritance'/>
     </pages>
 </playground>
