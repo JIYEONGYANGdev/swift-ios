@@ -14,5 +14,6 @@
         <page name='properties'/>
         <page name='class and struct'/>
         <page name='inheritance'/>
+        <page name='type casting'/>
     </pages>
 </playground>
