@@ -15,5 +15,6 @@
         <page name='class and struct'/>
         <page name='inheritance'/>
         <page name='type casting'/>
+        <page name='assert and guard'/>
     </pages>
 </playground>
