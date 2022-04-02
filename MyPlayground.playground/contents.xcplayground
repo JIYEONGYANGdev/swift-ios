@@ -18,5 +18,6 @@
         <page name='assert and guard'/>
         <page name='protocol'/>
         <page name='extension'/>
+        <page name='enumeration'/>
     </pages>
 </playground>
