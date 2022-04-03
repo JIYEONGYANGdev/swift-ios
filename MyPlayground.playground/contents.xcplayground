@@ -22,5 +22,6 @@
         <page name='optional chaining'/>
         <page name='try-catch'/>
         <page name='closure'/>
+        <page name='higher-ordrer function'/>
     </pages>
 </playground>
