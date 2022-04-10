@@ -20,6 +20,4 @@ class ViewController: UIViewController {
         self.colorView.backgroundColor = UIColor.blue
         print("color change button clicked")
     }
-    
 }
-
